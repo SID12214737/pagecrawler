@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# quick_scrape_brb.py
-# Requires: pip install requests beautifulsoup4 lxml
-
 import os
 import time
 import json
